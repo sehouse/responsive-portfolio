@@ -4,6 +4,15 @@ body{
 .container{
     background-color: white;
 }
+.row{
+    background-color:white;
+}
+.col-md-3{
+    background-color:white;
+}
+.col-md-9{
+    background-color: white;
+}
 .responsive {
     max-width: 100%;
     height: auto;

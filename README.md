@@ -12,3 +12,6 @@ I linked the proper HTML pages to the NavBar buttons, so that they will direct t
 
 Commit 5:
 I created the container for the "About Me" section of my index page, using a card and h1 for the title, and then added an image and placement text. I also made the image responsive to screen size changes.
+
+Commit 6:
+I altered some CSS to try to fix the lack of background color to my container.
