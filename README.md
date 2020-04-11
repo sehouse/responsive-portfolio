@@ -6,3 +6,6 @@ I created an Assets folder and copied the example images from gitlab into it. I 
 
 Commit 3:
 I added the Bootstrap NavBar to each of my pages, changing the title of the bar to my name, and changing each link to the names of the individual pages. I made sure to change the "active" class to match the page that the code is actually in, so that the links in the NavBar display the proper page as highlighted. I also linked the Bootstrap JS, so that the NavBar will properly work when it is in a smaller screen format. The "page link" buttons on the NavBar are also now aligned to the left of the screen.
+
+Commit 4:
+I linked the proper HTML pages to the NavBar buttons, so that they will direct to the correct pages when clicked. I also used the CSS to change the background color to a placeholder color, so that it is earier to see the body changes that I make. A footer was also added to each HTML page.
