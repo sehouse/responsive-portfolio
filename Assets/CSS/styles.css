@@ -3,6 +3,7 @@ body{
 }
 .container{
     background-color: white;
+    max-width: 765px;
 }
 .row{
     background-color:white;

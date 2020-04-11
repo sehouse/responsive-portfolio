@@ -18,3 +18,6 @@ I altered some CSS to try to fix the lack of background color to my container.
 
 Commit 7:
 I created the form for my "Contact" page.
+
+Commit 8:
+I created the rows and columns of placeholder pictures for my "Portfolio" page. I also adjusted the container width for all pages in my CSS file. The basic framework for this homework is now in place, and I can focus on changing the visual styles of each page to something more enjoyable to me.
