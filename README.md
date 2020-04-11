@@ -9,3 +9,6 @@ I added the Bootstrap NavBar to each of my pages, changing the title of the bar 
 
 Commit 4:
 I linked the proper HTML pages to the NavBar buttons, so that they will direct to the correct pages when clicked. I also used the CSS to change the background color to a placeholder color, so that it is earier to see the body changes that I make. A footer was also added to each HTML page.
+
+Commit 5:
+I created the container for the "About Me" section of my index page, using a card and h1 for the title, and then added an image and placement text. I also made the image responsive to screen size changes.

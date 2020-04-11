@@ -1,6 +1,16 @@
-body {
+body{
     background-color: lightslategrey;
 }
+.container{
+    background-color: white;
+}
+.responsive {
+    max-width: 100%;
+    height: auto;
+  }
+  .p{
+      word-wrap: break-word;
+  }
 footer{
     position: fixed;
   left: 0;
