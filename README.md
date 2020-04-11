@@ -15,3 +15,6 @@ I created the container for the "About Me" section of my index page, using a car
 
 Commit 6:
 I altered some CSS to try to fix the lack of background color to my container.
+
+Commit 7:
+I created the form for my "Contact" page.
