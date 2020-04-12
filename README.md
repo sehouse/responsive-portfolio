@@ -27,3 +27,6 @@ I adjusted the colors of the navbar and footer to be a dark blue, while the back
 
 Commit 10:
 I typed the "About Me" text added a "gainsboro" bottom border to the navbar, added a "gainsboro" top border to the footer, and changed the "submit" button in the contact to a dark styling. I also added double line borders around each of the containers.
+
+Commit 11:
+I played with the portfolio page more, but did not make any changes that worked in a way that satisfied me.
