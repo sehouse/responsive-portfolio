@@ -1,8 +1,9 @@
 body{
-    background-color: cornflowerblue;
+    background-color: cornflowerblue;  
 }
 .navbar-custom{
     background-color: darkblue;
+    border-bottom: solid gainsboro;
 }
 .navbar-toggler-icon{
     background-color: cornflowerblue;
@@ -22,6 +23,7 @@ hr{
 .container{
     background-color: royalblue;
     max-width: 765px;
+    border-style: double;
 }
 .row{
     background-color:royalblue;
@@ -47,4 +49,5 @@ footer{
   background-color: darkblue;
   color: cornflowerblue;
   text-align: center;
+  border-top: solid gainsboro;
 }

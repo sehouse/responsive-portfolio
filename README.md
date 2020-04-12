@@ -24,3 +24,6 @@ I created the rows and columns of placeholder pictures for my "Portfolio" page. 
 
 Commit 9:
 I adjusted the colors of the navbar and footer to be a dark blue, while the background and navbar/footer text are cornflower blue. The containers on each page are now royal blue. I changed the hr tag in each container to now be a double line.
+
+Commit 10:
+I typed the "About Me" text added a "gainsboro" bottom border to the navbar, added a "gainsboro" top border to the footer, and changed the "submit" button in the contact to a dark styling. I also added double line borders around each of the containers.
