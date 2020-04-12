@@ -21,3 +21,6 @@ I created the form for my "Contact" page.
 
 Commit 8:
 I created the rows and columns of placeholder pictures for my "Portfolio" page. I also adjusted the container width for all pages in my CSS file. The basic framework for this homework is now in place, and I can focus on changing the visual styles of each page to something more enjoyable to me.
+
+Commit 9:
+I adjusted the colors of the navbar and footer to be a dark blue, while the background and navbar/footer text are cornflower blue. The containers on each page are now royal blue. I changed the hr tag in each container to now be a double line.

@@ -1,18 +1,36 @@
 body{
-    background-color: lightslategrey;
+    background-color: cornflowerblue;
+}
+.navbar-custom{
+    background-color: darkblue;
+}
+.navbar-toggler-icon{
+    background-color: cornflowerblue;
+}
+.navbar-brand{
+    color: cornflowerblue;
+}
+.nav-link{
+    color:cornflowerblue
+}
+.nav-item.active{
+    background-color:gainsboro;
+}
+hr{
+    border-top: 3px double black
 }
 .container{
-    background-color: white;
+    background-color: royalblue;
     max-width: 765px;
 }
 .row{
-    background-color:white;
+    background-color:royalblue;
 }
 .col-md-3{
-    background-color:white;
+    background-color:royalblue;
 }
 .col-md-9{
-    background-color: white;
+    background-color: royalblue;
 }
 .responsive {
     max-width: 100%;
@@ -26,7 +44,7 @@ footer{
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: white;
-  color: black;
+  background-color: darkblue;
+  color: cornflowerblue;
   text-align: center;
 }
